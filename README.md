@@ -1,5 +1,5 @@
-# IO64KbRead
-Reads 64Kb in a cache friendly way.
+# IO64KbInputOutput
+Reads/writes 64Kb in a cache friendly way.
 
 ## Features
 - Wrapper around InputStream
