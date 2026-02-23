@@ -34,7 +34,6 @@ func main() {
     r, c := readInt(), readInt()
     n := r * c
 
-    // Grid as byte array (0='0', 1='1')
     grid := make([]byte, n)
     for i := 0; i < n; i++ {
         for {
