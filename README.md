@@ -5,4 +5,4 @@ Reads/writes 64Kb in a cache friendly way.
 - Wrapper around InputStream
 - Wrapper around OutputStream
 
-By using these, reading and writing much faster than what is seamlingly default in java and kotlin.
+By using these, reading and writing becomes much faster than what is seamlingly default in java and kotlin.
